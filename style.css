@@ -162,7 +162,7 @@ h3 {
 .item.svelte-bs809j>.info.svelte-bs809j>.svelte-bs809j {
     margin: 0;
     font-weight: 400;
-    font-family: none;
+    font-family: math;
 }
 
 .list.svelte-bs809j.svelte-bs809j.svelte-bs809j {
@@ -217,6 +217,7 @@ h3 {
     text-align: center;
     margin: 0;
     font-size: 18px;
+    font-weight: 400;
 }
 
 .content.svelte-e7qz5e>.power.svelte-e7qz5e {
@@ -361,13 +362,12 @@ h3 {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height:314px;
+    height:290px;
 }
 
 .container.svelte-798fzo .intro .text .title {
     font-size: 3.5rem;
     line-height: 1.0;
-    font-family: math;
 }
 
 .container.svelte-798fzo .intro .text .title .name {
@@ -462,7 +462,6 @@ h3 {
 
     .container.svelte-798fzo .intro .text .title {
         font-size: 3.8rem;
-        font-family: math;
     }
 
     .container.svelte-798fzo .intro .text .desc {
@@ -564,7 +563,7 @@ h3 {
 }
 
 .links.svelte-16x9vw0 .link {
-    border: 1px solid #ad99ff;
+    border: 1px solid #b029ff;
     border-radius: 5px;
     padding: 12px 10px;
     color: #fff;
@@ -576,8 +575,8 @@ h3 {
 }
 
 .links.svelte-16x9vw0 .link:hover {
-    box-shadow: 0 0 10px #ad99ff inset,0 0 20px 2px #ad99ff;
-    border: 1px solid #ad99ff
+    box-shadow: 0 0 10px #d563f4 inset,0 0 20px 2px #d563f4;
+    border: 1px solid #d563f4
     /*box-shadow: 0 0 10px #4169e1 inset,0 0 20px 2px #4169e1;
     border: 1px solid royalblue*/
 }
@@ -747,7 +746,7 @@ h3 {
     padding: 4px;
     transition: all .50s ease;
     line-height: 0;
-    box-shadow: 0px 0px 15px 0px #a8a1d7;
+    box-shadow: 0px 0px 15px 0px #b979ca;
 }
 
 }
@@ -789,7 +788,7 @@ h3 {
 
 
 .off-screen-menu{
-    background-color: #551061;
+    background-color: #2e0535;
     height: 31vh;
     width: 140%;
     max-width: 102px;
