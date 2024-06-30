@@ -4,7 +4,7 @@
 }
 
 :root {
-    font-family: system-ui;
+    font-family: math;
     line-height: 1.5;
     font-weight: 700;
     font-synthesis: none;
@@ -162,7 +162,6 @@ h3 {
 .item.svelte-bs809j>.info.svelte-bs809j>.svelte-bs809j {
     margin: 0;
     font-weight: 400;
-    font-family: math;
 }
 
 .list.svelte-bs809j.svelte-bs809j.svelte-bs809j {
@@ -563,7 +562,7 @@ h3 {
 }
 
 .links.svelte-16x9vw0 .link {
-    border: 1px solid #b029ff;
+    border: 1px solid #9f5ddf;
     border-radius: 5px;
     padding: 12px 10px;
     color: #fff;
@@ -746,7 +745,7 @@ h3 {
     padding: 4px;
     transition: all .50s ease;
     line-height: 0;
-    box-shadow: 0px 0px 15px 0px #b979ca;
+    box-shadow: 0px 0px 15px 0px #d2a4de;
 }
 
 }
