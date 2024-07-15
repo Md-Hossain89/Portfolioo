@@ -34,7 +34,7 @@ h1 {
     /*background-color: #e970ff;*/
     background-color: #d563f4;
     border: 1.6px solid #000000;
-    border-radius: 6px;
+    border-radius: 3px;
 
 
     /*margin-top: 10px;*/
@@ -55,7 +55,7 @@ h1 {
 h1{
     text-align: center;
     color: #000000;
-    font-weight: 600;
+    font-weight: 700;
 }
 h4 {
     display: block;
@@ -75,7 +75,7 @@ h2 {
     margin-block-end: 0.83em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
-    font-weight: 400;
+    font-weight: 600;
     unicode-bidi: isolate;
     align-items:center;
 
@@ -83,13 +83,14 @@ h2 {
 
     
     /*background-color: #ad99ff;*/
-    background-color: #b7a6ff;
+    background-color: #999999;
     border: 1px solid #000000;
-    border-radius: 4px;
-    padding: 1px 12px;
+    border-radius: 2px;
+    padding: 3px 6px;
     max-width: fit-content;
     text-transform: none;
-    line-height: 1.3;
+    line-height: 1.2;
+    margin: auto;
 }
 
 
@@ -114,7 +115,7 @@ span{
 main {
     display: block;
     unicode-bidi: isolate;
-    background-color: #f0f0f0;
+    background-color: #e3e3e3;
 }
 
 h3 {
@@ -151,11 +152,11 @@ h3 {
 
 .item.svelte-bs809j.svelte-bs809j.svelte-bs809j {
     display: flex;
-    gap: 12px
+    gap: 25px
 }
 
 .item.svelte-bs809j>img.svelte-bs809j.svelte-bs809j {
-    max-width: 97px;
+    max-width: 160px;
     object-fit: contain
 }
 
@@ -238,7 +239,7 @@ h3 {
 }
 
 .container.svelte-1dy10a3 {
-    background-color: #000;
+    background-color: #1a1a1a;
     color: #fff;
     width: 100%;
     position: sticky;
@@ -338,7 +339,7 @@ h3 {
 
 .container.svelte-798fzo {
     width: 100%;
-    background-color: #000000;
+    background-color: #1a1a1a;
     color: #fff;
     
     /*background: url(https://mariesteinmetzmd.com/wp-content/uploads/2016/12/solid-blue-background-wallpaper-2.jpg) no-repeat center;
@@ -383,7 +384,7 @@ h3 {
     display: block;
     background-color: #b24dc4;
     border: 1px solid #000000;
-    border-radius: 8px;
+    border-radius: 4px;
     margin-top: 10px;
     padding: 7px 12px;
     max-width: fit-content;
@@ -597,7 +598,7 @@ h3 {
 
 .container.svelte-xwla4l {
     display: flex;
-    background: #19193a;
+    background: #1a1a1a;
     color: #fff;
     scroll-margin-top: 2rem;
     
@@ -649,7 +650,8 @@ h3 {
     .container.svelte-fkyym6 {
         display:flex;
         flex-direction: column;
-        align-items: center
+        align-items: center;
+        gap: 25px;
     }
 
     .list.svelte-fkyym6 {
@@ -676,7 +678,7 @@ h3 {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    gap: 20px
+    gap: 42px
 }
 
 
@@ -758,7 +760,7 @@ h3 {
 }
 .row h5{
     font-size: 24px;
-    font-weight: 400;
+    font-weight: 300;
     color: var(--other-color);
     line-height: 0;
     text-align: center;
@@ -856,7 +858,7 @@ h3 {
 
 .ham-menu.active span:nth-child(3){
     top:50%;
-    transform: translate(-50%,-50%) rotate(-45deg);
+    transform: translate(-40%,-40%) rotate(-45deg);
 }
 
 
@@ -883,5 +885,15 @@ div {
     font-weight: 600;
 }
 
+b {
+    font-weight: 600;
+    font-size:22px;
+}
 
+
+
+
+p3{
+    font-size: 35px;
+}
 
